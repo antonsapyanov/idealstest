@@ -1,0 +1,8 @@
+{
+  "algolia": {
+    "applicationID": "YOUR_APPLICATION_ID",
+    "key": "YOUR_KEY",
+    "index": "YOUR_INDEX"
+  },
+  "submitUrl": "YOUR_SUBMIT_URL"
+}
